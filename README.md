@@ -35,7 +35,7 @@ Skeleton Code: [Berkeley-CS61B/skeleton-sp21](https://github.com/Berkeley-CS61B/
 
 | Lab                                | Code                                                                 | Date         | Status | Autograder Score |
 |------------------------------------|:----------------------------------------------------------------------:|:------------:|:------:|:----------------:|
-| **Lab 1: IntelliJ, Java, git**     | [🔗 link](https://github.com/momo888666/CS61B-Spring2021/tree/main/lab1) | 2024-Dec-31 |  ✅  | **32.0 / 32.0**  |
+|[Lab 1: IntelliJ, Java, git](https://sp21.datastructur.es/materials/lab/lab1/lab1)     | [🔗 link](https://github.com/momo888666/CS61B-Spring2021/tree/main/lab1) | 2024-Dec-31 |  ✅  | **32.0 / 32.0**  |
 | **Lab 2: JUnit Tests and Debugging**| [🔗 link](#)                                                         |              |        |                  |
 | **Lab 3: Timing Tests**            | [🔗 link](#)                                                         |              |        |                  |
 | **Lab 4: Git and Debugging**       | [🔗 link](#)                                                         |              |        |                  |
